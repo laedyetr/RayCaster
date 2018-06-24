@@ -1,0 +1,1 @@
+//ds_priority_add(ObjCamera.SpritePriority,0,point_distance(x,y,ObjCamera.x,ObjCamera.y));

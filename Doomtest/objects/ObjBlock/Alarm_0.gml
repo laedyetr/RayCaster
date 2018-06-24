@@ -1,0 +1,1 @@
+global.Grid[# floor(x/32), floor(y/32)] = Type;

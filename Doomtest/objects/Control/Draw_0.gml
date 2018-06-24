@@ -1,0 +1,1 @@
+//draw_surface_ext(global.MapSurf,0,0,8,8,0,c_white,1);

@@ -1,0 +1,1 @@
+draw_surface_stretched(global.CamSurf,0,0,room_width,room_height);
